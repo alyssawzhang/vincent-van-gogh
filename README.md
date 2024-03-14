@@ -132,7 +132,7 @@ Several limitations appear throughout Color in the Complete Paintings. The Pytho
 
 ### Acknowledgments
 
-	Many thanks to my faculty supervisor, Associate Professor Antonio Linero, for meeting with me on a biweekly basis for academic discussion and status updates.
+Many thanks to my faculty supervisor, Associate Professor Antonio Linero, for meeting with me on a biweekly basis for academic discussion and status updates.
  
 ### Literature Cited
 
