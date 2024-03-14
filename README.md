@@ -1,4 +1,6 @@
-# Color in the Complete Paintings of Vincent van Gogh: A data science approach
+# Color in the Complete Paintings of Vincent van Gogh: 
+# A data science approach
+An independent research project (supervised by Dr. Antonio Linero) completed for UT-Austin's Scientific Computation and Data Sciences Certificate.
 
 ## Abstract
 
