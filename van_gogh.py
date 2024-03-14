@@ -90,5 +90,5 @@ data['Yellowness'] = yellowness
 data['Color Diversity'] = color_diversity
 
 # Save the results to a new CSV file
-output_file = 'van_gogh_output.csv'  # Can replace with desired output file path
+output_file = 'van_gogh_output_new.csv'  # Can replace with desired output file path
 data.to_csv(output_file, index=False)
