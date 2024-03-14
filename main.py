@@ -10,7 +10,7 @@ import colorgram
 
 
 # Load the input CSV file into a DataFrame
-csv_file = r'C:\Users\Alyss\Documents\SC Cert\van_gogh_input.csv'  # Can replace with applicable file path
+csv_file = r'van_gogh_input.csv'  # Can replace with applicable file path
 data = pd.read_csv(csv_file, encoding='ISO-8859-1')
 
 # Create empty lists to store the results
