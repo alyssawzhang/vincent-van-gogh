@@ -17,7 +17,7 @@ library(mgcv)
 library(tidyr)
 
 # Load CSV file output from Python program.
-data <- read.csv("C:/Users/Alyss/PycharmProjects/pythonProject/van_gogh_output_new.csv")
+data <- read.csv("van_gogh_output_new.csv")
 
 # Add Artistic Period variable
 data <- data %>%
